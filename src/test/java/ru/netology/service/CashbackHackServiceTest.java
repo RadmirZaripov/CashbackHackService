@@ -1,6 +1,6 @@
 package ru.netology.service;
 
-import пorg.junit.Test;
+import org.junit.Test;
 
 import static org.junit.Assert.*;
 
